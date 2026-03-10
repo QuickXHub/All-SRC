@@ -4,3 +4,6 @@
 
 ## SRC
 - Auto Farm
+
+## UPD LOG
+- Auto Farm มันจะมีของ Ep.2 อยู่นะครับ
