@@ -7,3 +7,4 @@
 
 ## UPD LOG
 - Auto Farm มันจะมีของ Ep.2 อยู่นะครับ
+- New File : Auto Farm เพิ่ม Dropdown Select Weapon
